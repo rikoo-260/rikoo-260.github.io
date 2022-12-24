@@ -59,6 +59,14 @@
 	font-family: 'montserrat', sans-serif;
 	font-size: 23px;
 }
+.list-social .item{
+	text-decoration: none;
+	color: #009393;
+	font-size: 1.5rem;
+	background-color: #F0E6E6;
+	padding: 7px;
+	border-radius: 7px;
+}
 .my-badge{
 	width: 520px;
 	height: 19px;
@@ -135,7 +143,7 @@
 
 /*contact*/
 .button{
-	width: 147px;
+	width: 130px;
 	text-decoration: none;
 	padding: 8px;
 	border-radius: 5px;
